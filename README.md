@@ -12,7 +12,8 @@ DURATION - 8 WEEKS
 MENTOR - NEELA SANTOSH
 
 
-## The objective of this task was to demonstrate the creation, population, and utilization of a relational database using MySQL. The process began with initializing a new database named codtech using the CREATE DATABASE and USE commands. This created a dedicated environment to manage all related data entities efficiently.
+#description
+The objective of this task was to demonstrate the creation, population, and utilization of a relational database using MySQL. The process began with initializing a new database named codtech using the CREATE DATABASE and USE commands. This created a dedicated environment to manage all related data entities efficiently.
 
 The first step involved the creation of a foundational table, IT_Sector, representing various domains in the IT industry. This table included three fields: Sector_ID (an integer and primary key), Sector_Name, and Head_Office (both as variable character strings). Once the structure was defined, 20 sample entries were inserted into this table to represent diverse sectors such as Software Development, Cybersecurity, AI & ML, Cloud Computing, UI/UX Design, and more, each linked to their respective city-based head offices.
 
