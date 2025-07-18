@@ -31,3 +31,7 @@ Right Join: Conversely, this showed all records from the Sector_Projects table, 
 Full Join Simulation: Since MySQL doesn’t support full outer joins directly, a combination of LEFT JOIN and RIGHT JOIN with UNION was employed. This technique displayed all sectors and projects, even those without a corresponding match in the other table.
 
 This process demonstrated not only relational data modeling but also real-world SQL querying skills. The use of conditional joins (e.g., filtering only completed projects or identifying unmatched sectors) highlighted advanced querying techniques. Overall, the project emphasized efficient data organization, normalization, referential integrity via foreign keys, and powerful querying through different joins. It is a good foundational example of how to work with structured data in MySQL and apply it to practical scenarios involving interrelated entities.
+
+
+## OUTPUT
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/3a518413-1033-4735-9aa7-ac866e1c4b5e" />
