@@ -1,10 +1,16 @@
 # JOINS-PRACTICE
 COMPANY - CODTECH IT SOLUTION
+
 NAME - YASH NAWALE
+
 INTERN ID - CT12DL363
+
 DOMAIN - SQL 
+
 DURATION - 8 WEEKS
+
 MENTOR - NEELA SANTOSH
+
 
 ## The objective of this task was to demonstrate the creation, population, and utilization of a relational database using MySQL. The process began with initializing a new database named codtech using the CREATE DATABASE and USE commands. This created a dedicated environment to manage all related data entities efficiently.
 
