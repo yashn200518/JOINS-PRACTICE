@@ -12,7 +12,7 @@ DURATION - 8 WEEKS
 MENTOR - NEELA SANTOSH
 
 
-#description
+# description
 
  I worked on performing different types of SQL JOIN operations—INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL JOIN—on a simulated IT company database that includes four interrelated tables: Departments, Employees, Projects, and Employee_Project_Assignments. Each table contains 20 realistic entries to reflect real-world data from an Indian IT company structure.
 
